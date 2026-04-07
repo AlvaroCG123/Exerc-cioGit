@@ -1,2 +1,3 @@
+mudança mudança ta funfando
 Trabalho de Engenharia de Software II
-    -Álvaro e Giuli
+    - Giuli e Álvaro 
